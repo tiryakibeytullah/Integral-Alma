@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571581761 source:c:\users\ilhan\desktop\integral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
